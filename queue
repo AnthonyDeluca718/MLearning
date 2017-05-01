@@ -1,0 +1,26 @@
+-Implement batch gradient Descent algorithm
+-Implement Stochastic Gradient Descent
+-Feature Scaling (some sort of proof, examples, see back and forth)
+-mean normalization
+-Choosing alpha (test this stuff)
+
+-Implement line search gradient descent (for both versions)
+
+-Proof about convergence of gradient descent locally
+-Proof about global convergence of grad descent
+-Proof about Newton Method
+
+
+
+
+=== Programming Assignments ====
+2-Linear Regression
+3-Logistic Regression
+4-Multi-class Classification and Neureal Networks
+5-Neural Network Learning
+6-Regularized Linear Regression and Bias/Variance
+7-Support Vector Machines
+8-K-mean Clustering and PCA
+9-Anomoly Detection and Recomender Systems
+[10 is large scale]
+[11 is application: Photo OCR]
