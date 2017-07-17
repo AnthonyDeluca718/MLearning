@@ -1,0 +1,16 @@
+Goals:
+• Building an intuition for machine learning algorithms
+• Using pandas, NumPy, and matplotlib to read in, process, and visualize data
+• Implementing linear classification algorithms in Python
+
+Single Neuron:
+- Input x
+- Weight vector w
+- Net-input / Activity: z = w*x
+- Activation: f(z)
+- Usually we take x0 = 1, and define a constant term w0 (equivalent to setting activation to f'(z') = f(z + w0) )
+
+Perceptron:
+- f(z) = Heaviside function
+- Classifies a set into two classes: {+1, -1}
+- Learning Rule: 
