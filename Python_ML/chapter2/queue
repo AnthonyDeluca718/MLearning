@@ -3,3 +3,8 @@ Pages: 31
 Start: 17
 End: 47
 Current: 21
+
+===
+
+-- Get rid of .DS_Store on OSX
+-- Atom Python highlighter that doesn't force you to use 4 space tabs

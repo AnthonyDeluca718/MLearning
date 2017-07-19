@@ -1,11 +1,13 @@
--Implement batch gradient Descent algorithm
--Implement Stochastic Gradient Descent
--Feature Scaling (some sort of proof, examples, see back and forth)
--mean normalization
--Choosing alpha (test this stuff)
+-- Figure out how to hid .DS_Store in osx
 
--Implement line search gradient descent (for both versions)
+-- Implement batch gradient Descent algorithm
+-- Implement Stochastic Gradient Descent
+-- Feature Scaling (some sort of proof, examples, see back and forth)
+-- mean normalization
+-- Choosing alpha (test this stuff)
 
--Proof about convergence of gradient descent locally
--Proof about global convergence of grad descent
--Proof about Newton Method
+-- Implement line search gradient descent (for both versions)
+
+-- Proof about convergence of gradient descent locally
+-- Proof about global convergence of grad descent
+-- Proof about Newton Method
